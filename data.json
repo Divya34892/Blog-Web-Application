@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1744550922815",
+    "title": "The Joy of Coding",
+    "content": "Coding is not just about writing lines of code. It’s about solving real-world problems and creating things from scratch. The satisfaction of building something that works is unmatched."
+  },
+  {
+    "id": "1744550950923",
+    "title": "My Journey with JavaScript",
+    "content": "I started learning JavaScript a year ago, and it has been an exciting ride. From making simple calculators to building dynamic web apps, JavaScript opened a new world of possibilities for me."
+  },
+  {
+    "id": "1744550976653",
+    "title": "Why Node.js is Awesome",
+    "content": "Node.js is fast, scalable, and easy to use. I love how it allows me to use JavaScript on both the client and server sides. It’s perfect for building real-time applications."
+  }
+]
