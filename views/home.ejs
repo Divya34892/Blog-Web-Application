@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Home</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <h1>Home</h1>
+  <a href="/compose">Compose New Post</a>
+  <% posts.forEach(post => { %>
+    <div>
+      <h2><a href="/posts/<%= post.id %>"><%= post.title %></a></h2>
+      <p><%= post.content.substring(0, 100) %>...</p>
+    </div>
+  <% }) %>
+</body>
+</html>
